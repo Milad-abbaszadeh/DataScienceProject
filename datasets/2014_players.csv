@@ -1,0 +1,846 @@
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Jefferson,2 January 1983 ,31,9,Botafogo
+2,DF,Dani Alves,6 May 1983 ,31,75,Barcelona
+3,DF,Thiago Silva (c),22 September 1984 ,29,46,Paris Saint-Germain
+4,DF,David Luiz,22 April 1987 ,27,36,Chelsea[7]
+5,MF,Fernandinho,4 May 1985 ,29,7,Manchester City
+6,DF,Marcelo,12 May 1988 ,26,31,Real Madrid
+7,FW,Hulk,25 July 1986 ,27,35,Zenit Saint Petersburg
+8,MF,Paulinho,25 July 1988 ,25,26,Tottenham Hotspur
+9,FW,Fred,3 October 1983 ,30,33,Fluminense
+10,FW,Neymar,5 February 1992 ,22,49,Barcelona
+11,MF,Oscar,9 September 1991 ,22,31,Chelsea
+12,GK,Júlio César,3 September 1979 ,34,80,Toronto FC[8]
+13,DF,Dante,18 October 1983 ,30,12,Bayern Munich
+14,DF,Maxwell,27 August 1981 ,32,9,Paris Saint-Germain
+15,DF,Henrique,14 October 1986 ,27,5,Napoli
+16,MF,Ramires,24 March 1987 ,27,42,Chelsea
+17,MF,Luiz Gustavo,23 July 1987 ,26,19,VfL Wolfsburg
+18,MF,Hernanes,29 May 1985 ,29,24,Internazionale
+19,MF,Willian,9 August 1988 ,25,7,Chelsea
+20,FW,Bernard,8 September 1992 ,21,11,Shakhtar Donetsk
+21,FW,Jô,20 March 1987 ,27,17,Atlético Mineiro
+22,GK,Victor,21 January 1983 ,31,6,Atlético Mineiro
+23,DF,Maicon,26 July 1981 ,32,72,Roma
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Loïc Feudjou,14 April 1992 ,22,2,Coton Sport
+2,DF,Benoît Assou-Ekotto,24 March 1984 ,30,22,Queens Park Rangers[10]
+3,DF,Nicolas Nkoulou,27 March 1990 ,24,48,Marseille
+4,DF,Cédric Djeugoué,28 August 1992 ,21,3,Coton Sport
+5,DF,Dany Nounkeu,11 April 1986 ,28,16,Beşiktaş[11]
+6,MF,Alex Song,9 September 1987 ,26,47,Barcelona
+7,MF,Landry N'Guémo,28 November 1985 ,28,40,Bordeaux
+8,FW,Benjamin Moukandjo,12 November 1988 ,25,17,Nancy
+9,FW,Samuel Eto'o (c),10 March 1981 ,33,117,Chelsea[12]
+10,FW,Vincent Aboubakar,22 January 1992 ,22,24,Lorient
+11,MF,Jean Makoun,29 May 1983 ,31,66,Rennes
+12,DF,Henri Bedimo,4 June 1984 ,30,31,Lyon
+13,FW,Eric Maxim Choupo-Moting,23 March 1989 ,25,26,Mainz 05
+14,DF,Aurélien Chedjou,20 June 1985 ,28,31,Galatasaray
+15,FW,Pierre Webó,20 January 1982 ,32,56,Fenerbahçe
+16,GK,Charles Itandje,2 November 1982 ,31,9,Konyaspor[13]
+17,MF,Stéphane Mbia,20 May 1986 ,28,49,Sevilla[14]
+18,MF,Eyong Enoh,23 March 1986 ,28,38,Antalyaspor
+19,FW,Fabrice Olinga,12 May 1996 ,18,8,Zulte Waregem[15]
+20,MF,Edgar Salli,17 August 1992 ,21,9,Lens[16]
+21,MF,Joël Matip,8 August 1991 ,22,23,Schalke 04
+22,DF,Allan Nyom,10 May 1988 ,26,10,Granada[17]
+23,GK,Sammy N'Djock,25 February 1990 ,24,3,Fethiyespor[18]
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Stipe Pletikosa,8 January 1979 ,35,111,Rostov
+2,DF,Šime Vrsaljko,10 January 1992 ,22,7,Genoa
+3,DF,Danijel Pranjić,2 December 1981 ,32,50,Panathinaikos
+4,MF,Ivan Perišić,2 February 1989 ,25,29,VfL Wolfsburg
+5,DF,Vedran Ćorluka,5 February 1986 ,28,72,Lokomotiv Moscow
+6,DF,Dejan Lovren,5 July 1989 ,24,25,Southampton
+7,MF,Ivan Rakitić,10 March 1988 ,26,62,Sevilla[21]
+8,MF,Ognjen Vukojević,20 December 1983 ,30,55,Dynamo Kyiv
+9,FW,Nikica Jelavić,27 August 1985 ,28,33,Hull City
+10,MF,Luka Modrić,9 September 1985 ,28,75,Real Madrid
+11,DF,Darijo Srna (c),1 May 1982 ,32,112,Shakhtar Donetsk
+12,GK,Oliver Zelenika,14 May 1993 ,21,0,Lokomotiva[22]
+13,DF,Gordon Schildenfeld,18 March 1985 ,29,21,Panathinaikos[23]
+14,MF,Marcelo Brozović,16 November 1992 ,21,1,Dinamo Zagreb
+15,MF,Milan Badelj,25 February 1989 ,25,9,Hamburger SV
+16,FW,Ante Rebić,21 September 1993 ,20,5,Fiorentina
+17,FW,Mario Mandžukić,21 May 1986 ,28,50,Bayern Munich[24]
+18,FW,Ivica Olić,14 September 1979 ,34,92,VfL Wolfsburg
+19,MF,Sammir,23 April 1987 ,27,6,Getafe
+20,MF,Mateo Kovačić,6 May 1994 ,20,10,Internazionale
+21,DF,Domagoj Vida,29 April 1989 ,25,23,Dynamo Kyiv
+22,FW,Eduardo,25 February 1983 ,31,63,Shakhtar Donetsk
+23,GK,Danijel Subašić,27 October 1984 ,29,6,Monaco
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Jesús Corona,26 January 1981 ,33,34,Cruz Azul
+2,DF,Francisco Javier Rodríguez,20 October 1981 ,32,95,América[28]
+3,DF,Carlos Salcido,2 April 1980 ,34,122,UANL[29]
+4,DF,Rafael Márquez (c),13 February 1979 ,35,120,León
+5,DF,Diego Reyes,19 September 1992 ,21,14,Porto
+6,MF,Héctor Herrera,19 April 1990 ,24,13,Porto
+7,DF,Miguel Layún,25 June 1988 ,25,15,América
+8,MF,Marco Fabián,21 July 1989 ,24,15,Cruz Azul[30]
+9,FW,Raúl Jiménez,5 May 1991 ,23,25,América
+10,MF,Giovani dos Santos,11 May 1989 ,25,76,Villarreal
+11,FW,Alan Pulido,8 March 1991 ,23,6,UANL
+12,GK,Alfredo Talavera,18 September 1982 ,31,14,Toluca
+13,GK,Guillermo Ochoa,13 July 1985 ,28,59,Ajaccio[31]
+14,FW,Javier Hernández,1 June 1988 ,26,62,Manchester United
+15,DF,Héctor Moreno,17 January 1988 ,26,53,Espanyol
+16,DF,Miguel Ángel Ponce,12 April 1989 ,25,8,Toluca[32]
+17,MF,Isaác Brizuela,28 August 1990 ,23,7,Toluca
+18,MF,Andrés Guardado,28 September 1986 ,27,104,Bayer Leverkusen[33]
+19,FW,Oribe Peralta,12 January 1984 ,30,33,Santos Laguna[34]
+20,MF,Javier Aquino,11 February 1990 ,24,22,Villarreal
+21,MF,Carlos Peña,29 March 1990 ,24,16,León
+22,DF,Paul Aguilar,6 March 1986 ,28,30,América
+23,MF,José Juan Vázquez,14 March 1988 ,26,5,León
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Mathew Ryan,8 April 1992 ,22,7,Club Brugge
+2,DF,Ivan Franjic,10 September 1987 ,26,9,Brisbane Roar
+3,DF,Jason Davidson,29 June 1991 ,22,7,Heracles Almelo
+4,FW,Tim Cahill,6 December 1979 ,34,69,New York Red Bulls
+5,MF,Mark Milligan,4 August 1985 ,28,29,Melbourne Victory
+6,DF,Matthew Spiranovic,27 June 1988 ,25,18,Western Sydney Wanderers
+7,FW,Mathew Leckie,4 February 1991 ,23,8,FSV Frankfurt[36]
+8,DF,Bailey Wright,28 July 1992 ,21,0,Preston North End
+9,FW,Adam Taggart,2 June 1993 ,21,5,Newcastle Jets[37]
+10,MF,Ben Halloran,14 June 1992 ,21,2,Fortuna Düsseldorf
+11,MF,Tommy Oar,10 December 1991 ,22,15,Utrecht
+12,GK,Mitchell Langerak,22 August 1988 ,25,3,Borussia Dortmund
+13,MF,Oliver Bozanic,8 January 1989 ,25,3,Luzern
+14,MF,James Troisi,3 July 1988 ,25,11,Melbourne Victory[38]
+15,MF,Mile Jedinak (c),3 August 1984 ,29,44,Crystal Palace
+16,MF,James Holland,15 May 1989 ,25,14,Austria Wien
+17,MF,Matt McKay,11 January 1983 ,31,47,Brisbane Roar
+18,GK,Eugene Galekovic,12 June 1981 ,33,8,Adelaide United
+19,DF,Ryan McGowan,15 August 1989 ,24,9,Shandong Luneng Taishan
+20,MF,Dario Vidošić,8 April 1987 ,27,23,Sion
+21,MF,Massimo Luongo,25 September 1992 ,21,1,Swindon Town
+22,DF,Alex Wilkinson,13 August 1984 ,29,3,Jeonbuk Hyundai Motors
+23,MF,Mark Bresciano,11 February 1980 ,34,74,Al-Gharafa
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Claudio Bravo (c),13 April 1983 ,31,79,Real Sociedad[40]
+2,DF,Eugenio Mena,18 July 1988 ,25,25,Santos
+3,DF,Miiko Albornoz,30 November 1990 ,23,2,Malmö FF[41]
+4,MF,Mauricio Isla,12 June 1988 ,26,47,Juventus
+5,MF,Francisco Silva,11 February 1986 ,28,12,Osasuna
+6,MF,Carlos Carmona,21 February 1987 ,27,44,Atalanta
+7,FW,Alexis Sánchez,19 December 1988 ,25,67,Barcelona[42]
+8,MF,Arturo Vidal,22 May 1987 ,27,54,Juventus
+9,FW,Mauricio Pinilla,4 February 1984 ,30,27,Cagliari
+10,MF,Jorge Valdivia,3 October 1983 ,30,57,Palmeiras
+11,FW,Eduardo Vargas,20 November 1989 ,24,30,Valencia[43]
+12,GK,Cristopher Toselli,22 June 1988 ,25,4,Universidad Católica
+13,DF,José Manuel Rojas,3 June 1983 ,31,19,Universidad de Chile
+14,MF,Fabián Orellana,27 January 1986 ,28,26,Celta Vigo
+15,MF,Jean Beausejour,3 June 1984 ,30,59,Wigan Athletic
+16,MF,Felipe Gutiérrez,8 October 1990 ,23,18,Twente
+17,DF,Gary Medel,3 August 1987 ,26,61,Cardiff City
+18,DF,Gonzalo Jara,29 August 1985 ,28,65,Nottingham Forest[44]
+19,MF,José Pedro Fuenzalida,22 February 1985 ,29,23,Colo-Colo
+20,MF,Charles Aránguiz,17 April 1989 ,25,21,Internacional
+21,MF,Marcelo Díaz,30 December 1986 ,27,21,Basel
+22,FW,Esteban Paredes,1 August 1980 ,33,35,Colo-Colo
+23,GK,Johnny Herrera,9 May 1981 ,33,8,Universidad de Chile
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Jasper Cillessen,22 April 1989 ,25,8,Ajax
+2,DF,Ron Vlaar,16 February 1985 ,29,24,Aston Villa
+3,DF,Stefan de Vrij,5 February 1992 ,22,12,Feyenoord
+4,DF,Bruno Martins Indi,8 February 1992 ,22,16,Feyenoord
+5,DF,Daley Blind,9 March 1990 ,24,12,Ajax
+6,MF,Nigel de Jong,30 November 1984 ,29,71,Milan
+7,DF,Daryl Janmaat,22 July 1989 ,24,16,Feyenoord
+8,MF,Jonathan de Guzmán,13 September 1987 ,26,10,Swansea City
+9,FW,Robin van Persie (c),6 August 1983 ,30,85,Manchester United
+10,MF,Wesley Sneijder,9 June 1984 ,30,99,Galatasaray
+11,FW,Arjen Robben,23 January 1984 ,30,75,Bayern Munich
+12,DF,Paul Verhaegh,1 September 1983 ,30,2,FC Augsburg
+13,DF,Joël Veltman,15 January 1992 ,22,2,Ajax
+14,DF,Terence Kongolo,14 February 1994 ,20,1,Feyenoord
+15,FW,Dirk Kuyt,22 July 1980 ,33,98,Fenerbahçe
+16,MF,Jordy Clasie,27 June 1991 ,22,8,Feyenoord
+17,FW,Jeremain Lens,24 November 1987 ,26,22,Dynamo Kyiv
+18,MF,Leroy Fer,5 January 1990 ,24,6,Norwich City
+19,FW,Klaas-Jan Huntelaar,12 August 1983 ,30,62,Schalke 04
+20,MF,Georginio Wijnaldum,11 November 1990 ,23,5,PSV
+21,FW,Memphis Depay,13 February 1994 ,20,6,PSV
+22,GK,Michel Vorm,20 October 1983 ,30,14,Swansea City
+23,GK,Tim Krul,3 April 1988 ,26,5,Newcastle United
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Iker Casillas (c),20 May 1981 ,33,154,Real Madrid
+2,DF,Raúl Albiol,4 September 1985 ,28,46,Napoli
+3,DF,Gerard Piqué,2 February 1987 ,27,60,Barcelona
+4,MF,Javi Martínez,2 September 1988 ,25,17,Bayern Munich
+5,DF,Juanfran,9 January 1985 ,29,8,Atlético Madrid
+6,MF,Andrés Iniesta,11 May 1984 ,30,97,Barcelona
+7,FW,David Villa,3 December 1981 ,32,96,Atlético Madrid[48]
+8,MF,Xavi,25 January 1980 ,34,132,Barcelona
+9,FW,Fernando Torres,20 March 1984 ,30,107,Chelsea
+10,MF,Cesc Fàbregas,4 May 1987 ,27,89,Barcelona[49]
+11,FW,Pedro,28 July 1987 ,26,40,Barcelona
+12,GK,David de Gea,7 November 1990 ,23,1,Manchester United
+13,MF,Juan Mata,28 April 1988 ,26,33,Manchester United
+14,MF,Xabi Alonso,25 November 1981 ,32,111,Real Madrid
+15,DF,Sergio Ramos,30 March 1986 ,28,117,Real Madrid
+16,MF,Sergio Busquets,16 July 1988 ,25,65,Barcelona
+17,MF,Koke,8 January 1992 ,22,8,Atlético Madrid
+18,DF,Jordi Alba,21 March 1989 ,25,26,Barcelona
+19,FW,Diego Costa,7 October 1988 ,25,2,Atlético Madrid
+20,MF,Santi Cazorla,13 December 1984 ,29,64,Arsenal
+21,MF,David Silva,8 January 1986 ,28,80,Manchester City
+22,DF,César Azpilicueta,28 August 1989 ,24,6,Chelsea
+23,GK,Pepe Reina,31 August 1982 ,31,32,Napoli[50]
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,David Ospina,31 August 1988 ,25,44,Nice
+2,DF,Cristián Zapata,30 September 1986 ,27,24,Milan
+3,DF,Mario Yepes (c),13 January 1976 ,38,98,Atalanta
+4,DF,Santiago Arias,13 January 1992 ,22,6,PSV
+5,MF,Carlos Carbonero,25 July 1990 ,23,1,River Plate
+6,MF,Carlos Sánchez,6 February 1986 ,28,44,Elche
+7,DF,Pablo Armero,2 November 1986 ,27,53,West Ham United[53]
+8,MF,Abel Aguilar,6 January 1985 ,29,49,Toulouse
+9,FW,Teófilo Gutiérrez,17 May 1985 ,29,30,River Plate
+10,MF,James Rodríguez,12 July 1991 ,22,22,Monaco
+11,MF,Juan Cuadrado,26 May 1988 ,26,28,Fiorentina
+12,GK,Camilo Vargas,9 March 1989 ,25,0,Santa Fe
+13,MF,Fredy Guarín,30 June 1986 ,27,49,Internazionale
+14,FW,Víctor Ibarbo,19 May 1990 ,24,9,Cagliari
+15,MF,Alexander Mejía,11 July 1988 ,25,8,Atlético Nacional
+16,DF,Éder Álvarez Balanta,28 February 1993 ,21,3,River Plate
+17,FW,Carlos Bacca,8 September 1986 ,27,11,Sevilla
+18,DF,Juan Camilo Zúñiga,14 December 1985 ,28,50,Napoli
+19,FW,Adrián Ramos,22 January 1986 ,28,26,Hertha BSC
+20,MF,Juan Fernando Quintero,18 January 1993 ,21,4,Porto
+21,FW,Jackson Martínez,3 October 1986 ,27,27,Porto
+22,GK,Faryd Mondragón,21 June 1971 ,42,50,Deportivo Cali
+23,DF,Carlos Valdés,22 May 1985 ,29,14,San Lorenzo[54]
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Orestis Karnezis,11 July 1985 ,28,19,Granada[56]
+2,MF,Giannis Maniatis,12 October 1986 ,27,30,Olympiacos
+3,DF,Giorgos Tzavellas,26 November 1987 ,26,13,PAOK
+4,DF,Kostas Manolas,14 June 1991 ,22,9,Olympiacos
+5,DF,Vangelis Moras,26 August 1981 ,32,19,Hellas Verona
+6,MF,Alexandros Tziolis,13 February 1985 ,29,49,Kayserispor[57]
+7,FW,Georgios Samaras,21 February 1985 ,29,74,Celtic[58]
+8,MF,Panagiotis Kone,26 July 1987 ,26,16,Bologna
+9,FW,Kostas Mitroglou,12 March 1988 ,26,32,Fulham
+10,MF,Giorgos Karagounis (c),6 March 1977 ,37,135,Fulham
+11,DF,Loukas Vyntra,5 February 1981 ,33,50,Levante
+12,GK,Panagiotis Glykos,3 June 1986 ,28,2,PAOK
+13,GK,Stefanos Kapino,18 March 1994 ,20,2,Panathinaikos
+14,FW,Dimitris Salpingidis,18 August 1981 ,32,76,PAOK
+15,DF,Vasilis Torosidis,10 June 1985 ,29,66,Roma
+16,MF,Lazaros Christodoulopoulos,19 December 1986 ,27,19,Bologna
+17,FW,Theofanis Gekas,23 May 1980 ,34,72,Konyaspor
+18,MF,Giannis Fetfatzidis,21 December 1990 ,23,19,Genoa
+19,DF,Sokratis Papastathopoulos,9 June 1988 ,26,47,Borussia Dortmund
+20,DF,José Holebas,27 June 1984 ,29,22,Olympiacos
+21,MF,Kostas Katsouranis,21 June 1979 ,34,111,PAOK
+22,MF,Andreas Samaris,13 June 1989 ,24,4,Olympiacos
+23,MF,Panagiotis Tachtsidis,15 February 1991 ,23,6,Torino
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Boubacar Barry,30 December 1979 ,34,77,Lokeren
+2,DF,Ousmane Viera,21 December 1986 ,27,1,Çaykur Rizespor
+3,DF,Arthur Boka,2 April 1983 ,31,78,VfB Stuttgart
+4,DF,Kolo Touré,19 March 1981 ,33,107,Liverpool
+5,DF,Didier Zokora,14 December 1980 ,33,119,Trabzonspor[60]
+6,FW,Mathis Bolly,14 November 1990 ,23,4,Fortuna Düsseldorf
+7,DF,Jean-Daniel Akpa-Akpro,11 October 1992 ,21,1,Toulouse
+8,FW,Salomon Kalou,5 August 1985 ,28,67,Lille
+9,MF,Cheick Tioté,21 June 1986 ,27,43,Newcastle United
+10,FW,Gervinho,27 May 1987 ,27,53,Roma
+11,FW,Didier Drogba (c),11 March 1978 ,36,101,Galatasaray
+12,FW,Wilfried Bony,10 December 1988 ,25,24,Swansea City
+13,FW,Didier Ya Konan,22 May 1984 ,30,25,Hannover 96
+14,MF,Ismaël Diomandé,28 August 1992 ,21,2,Saint-Étienne
+15,FW,Max Gradel,30 November 1987 ,26,26,Saint-Étienne
+16,GK,Sylvain Gbohouo,29 October 1988 ,25,2,Séwé Sport
+17,DF,Serge Aurier,24 December 1992 ,21,8,Toulouse
+18,DF,Constant Djakpa,17 October 1986 ,27,5,Eintracht Frankfurt
+19,MF,Yaya Touré,13 May 1983 ,31,82,Manchester City
+20,MF,Serey Die,7 November 1984 ,29,7,Basel
+21,FW,Giovanni Sio,31 March 1989 ,25,7,Basel
+22,DF,Sol Bamba,13 January 1985 ,29,43,Trabzonspor
+23,GK,Sayouba Mandé,15 June 1993 ,20,1,Stabæk
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Eiji Kawashima,20 March 1983 ,31,56,Standard Liège
+2,DF,Atsuto Uchida,27 March 1988 ,26,68,Schalke 04
+3,DF,Gōtoku Sakai,14 March 1991 ,23,12,VfB Stuttgart
+4,MF,Keisuke Honda,13 June 1986 ,27,56,Milan
+5,DF,Yuto Nagatomo,12 September 1986 ,27,70,Internazionale
+6,DF,Masato Morishige,21 May 1987 ,27,10,FC Tokyo
+7,MF,Yasuhito Endō,28 January 1980 ,34,144,Gamba Osaka
+8,MF,Hiroshi Kiyotake,12 November 1989 ,24,25,1. FC Nürnberg
+9,FW,Shinji Okazaki,16 April 1986 ,28,76,Mainz 05
+10,MF,Shinji Kagawa,17 March 1989 ,25,57,Manchester United
+11,FW,Yoichiro Kakitani,3 January 1990 ,24,12,Cerezo Osaka
+12,GK,Shusaku Nishikawa,18 June 1986 ,27,13,Urawa Red Diamonds
+13,FW,Yoshito Ōkubo,9 June 1982 ,32,57,Kawasaki Frontale
+14,MF,Toshihiro Aoyama,22 February 1986 ,28,6,Sanfrecce Hiroshima
+15,DF,Yasuyuki Konno,25 January 1983 ,31,81,Gamba Osaka
+16,MF,Hotaru Yamaguchi,6 October 1990 ,23,12,Cerezo Osaka
+17,MF,Makoto Hasebe (c),18 January 1984 ,30,78,1. FC Nürnberg
+18,FW,Yuya Osako,18 May 1990 ,24,9,1860 Munich
+19,DF,Masahiko Inoha,28 August 1983 ,30,21,Jubilo Iwata
+20,FW,Manabu Saitō,4 April 1990 ,24,5,Yokohama F. Marinos
+21,DF,Hiroki Sakai,12 April 1990 ,24,18,Hannover 96
+22,DF,Maya Yoshida,24 August 1988 ,25,41,Southampton
+23,GK,Shūichi Gonda,3 March 1989 ,25,2,FC Tokyo
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Keylor Navas,15 December 1986 ,27,53,Levante
+2,DF,Johnny Acosta,21 July 1983 ,30,25,Alajuelense
+3,DF,Giancarlo González,8 February 1988 ,26,35,Columbus Crew
+4,DF,Michael Umaña,16 July 1982 ,31,83,Saprissa
+5,MF,Celso Borges,27 May 1988 ,26,63,AIK
+6,DF,Óscar Duarte,3 June 1989 ,25,11,Club Brugge
+7,MF,Christian Bolaños,17 May 1984 ,30,55,Copenhagen
+8,DF,David Myrie[64],1 June 1988 ,26,10,Herediano
+9,FW,Joel Campbell,26 June 1992 ,21,33,Olympiacos[65]
+10,FW,Bryan Ruiz (c),18 August 1985 ,28,63,PSV[66]
+11,MF,Michael Barrantes,4 October 1983 ,30,50,Aalesund
+12,DF,Waylon Francis,20 September 1990 ,23,1,Columbus Crew
+13,MF,Esteban Granados,25 October 1985 ,28,11,Herediano
+14,FW,Randall Brenes,13 August 1983 ,30,39,Cartaginés
+15,DF,Júnior Díaz,12 September 1983 ,30,62,Mainz 05
+16,DF,Cristian Gamboa,24 October 1989 ,24,25,Rosenborg
+17,MF,Yeltsin Tejeda,17 March 1992 ,22,22,Saprissa
+18,GK,Patrick Pemberton,24 April 1982 ,32,21,Alajuelense
+19,DF,Roy Miller,24 November 1984 ,29,48,New York Red Bulls
+20,MF,Diego Calvo,25 March 1991 ,23,10,Vålerenga
+21,FW,Marco Ureña,5 March 1990 ,24,24,Kuban Krasnodar
+22,MF,José Miguel Cubero,14 February 1987 ,27,35,Herediano
+23,GK,Daniel Cambronero,1 December 1987 ,26,4,Herediano
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Joe Hart,19 April 1987 ,27,41,Manchester City
+2,DF,Glen Johnson,23 August 1984 ,29,52,Liverpool
+3,DF,Leighton Baines,11 December 1984 ,29,24,Everton
+4,MF,Steven Gerrard (c),30 May 1980 ,34,111,Liverpool
+5,DF,Gary Cahill,19 December 1985 ,28,24,Chelsea
+6,DF,Phil Jagielka,17 August 1982 ,31,26,Everton
+7,MF,Jack Wilshere,1 January 1992 ,22,18,Arsenal
+8,MF,Frank Lampard,20 June 1978 ,35,105,Chelsea[71]
+9,FW,Daniel Sturridge,1 September 1989 ,24,12,Liverpool
+10,FW,Wayne Rooney,24 October 1985 ,28,92,Manchester United
+11,FW,Danny Welbeck,26 November 1990 ,23,24,Manchester United
+12,DF,Chris Smalling,22 November 1989 ,24,12,Manchester United
+13,GK,Ben Foster,3 April 1983 ,31,7,West Bromwich Albion
+14,MF,Jordan Henderson,17 June 1990 ,23,11,Liverpool
+15,MF,Alex Oxlade-Chamberlain,15 August 1993 ,20,15,Arsenal
+16,DF,Phil Jones,21 February 1992 ,22,10,Manchester United
+17,MF,James Milner,4 January 1986 ,28,47,Manchester City
+18,FW,Rickie Lambert,16 February 1982 ,32,6,Southampton[72]
+19,MF,Raheem Sterling,8 December 1994 ,19,4,Liverpool
+20,MF,Adam Lallana,10 May 1988 ,26,6,Southampton[73]
+21,MF,Ross Barkley,5 December 1993 ,20,6,Everton
+22,GK,Fraser Forster,17 March 1988 ,26,2,Celtic
+23,DF,Luke Shaw,12 July 1995 ,18,2,Southampton[74]
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Gianluigi Buffon (c),28 January 1978 ,36,140,Juventus
+2,DF,Mattia De Sciglio,20 October 1992 ,21,11,Milan
+3,DF,Giorgio Chiellini,14 August 1984 ,29,68,Juventus
+4,DF,Matteo Darmian,2 December 1989 ,24,1,Torino
+5,MF,Thiago Motta,28 August 1982 ,31,20,Paris Saint-Germain
+6,MF,Antonio Candreva,28 February 1987 ,27,20,Lazio
+7,DF,Ignazio Abate,12 November 1986 ,27,20,Milan
+8,MF,Claudio Marchisio,19 January 1986 ,28,44,Juventus
+9,FW,Mario Balotelli,12 August 1990 ,23,30,Milan
+10,FW,Antonio Cassano,12 July 1982 ,31,37,Parma
+11,FW,Alessio Cerci,23 July 1987 ,26,12,Torino
+12,GK,Salvatore Sirigu,12 January 1987 ,27,8,Paris Saint-Germain
+13,GK,Mattia Perin,10 November 1992 ,21,0,Genoa
+14,MF,Alberto Aquilani,7 July 1984 ,29,35,Fiorentina
+15,DF,Andrea Barzagli,8 May 1981 ,33,47,Juventus
+16,MF,Daniele De Rossi,24 July 1983 ,30,95,Roma
+17,FW,Ciro Immobile,20 February 1990 ,24,2,Torino[77]
+18,MF,Marco Parolo,25 January 1985 ,29,4,Parma[78]
+19,DF,Leonardo Bonucci,1 May 1987 ,27,37,Juventus
+20,DF,Gabriel Paletta,15 February 1986 ,28,2,Parma
+21,MF,Andrea Pirlo,19 May 1979 ,35,109,Juventus
+22,FW,Lorenzo Insigne,4 June 1991 ,23,5,Napoli
+23,MF,Marco Verratti,5 November 1992 ,21,6,Paris Saint-Germain
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Fernando Muslera,16 June 1986 ,27,58,Galatasaray
+2,DF,Diego Lugano (c),2 November 1980 ,33,94,West Bromwich Albion
+3,DF,Diego Godín,16 February 1986 ,28,77,Atlético Madrid
+4,DF,Jorge Fucile,19 November 1984 ,29,42,Porto[80]
+5,MF,Walter Gargano,23 July 1984 ,29,63,Parma
+6,MF,Álvaro Pereira,28 November 1985 ,28,57,São Paulo
+7,MF,Cristian Rodríguez,30 September 1985 ,28,73,Atlético Madrid
+8,FW,Abel Hernández,8 August 1990 ,23,12,Palermo
+9,FW,Luis Suárez,24 January 1987 ,27,77,Liverpool
+10,FW,Diego Forlán,19 May 1979 ,35,110,Cerezo Osaka
+11,FW,Cristhian Stuani,12 October 1986 ,27,10,Espanyol
+12,GK,Rodrigo Muñoz,22 January 1982 ,32,0,Libertad
+13,DF,José Giménez,20 January 1995 ,19,6,Atlético Madrid
+14,MF,Nicolás Lodeiro,21 March 1989 ,25,26,Botafogo
+15,MF,Diego Pérez,18 May 1980 ,34,89,Bologna
+16,DF,Maxi Pereira,8 June 1984 ,30,90,Benfica
+17,MF,Egidio Arévalo Ríos,1 January 1982 ,32,55,Morelia[81]
+18,MF,Gastón Ramírez,2 December 1990 ,23,29,Southampton
+19,DF,Sebastián Coates,7 October 1990 ,23,15,Nacional[82]
+20,MF,Álvaro González,29 October 1984 ,29,43,Lazio
+21,FW,Edinson Cavani,14 February 1987 ,27,62,Paris Saint-Germain
+22,DF,Martín Cáceres,7 April 1987 ,27,57,Juventus
+23,GK,Martín Silva,25 March 1983 ,31,4,Vasco da Gama
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Máximo Banguera,16 December 1985 ,28,25,Barcelona
+2,DF,Jorge Guagua,28 September 1981 ,32,59,Emelec
+3,DF,Frickson Erazo,5 May 1988 ,26,37,Flamengo
+4,DF,Juan Carlos Paredes,8 July 1987 ,26,38,Barcelona
+5,MF,Renato Ibarra,20 January 1991 ,23,18,Vitesse
+6,MF,Christian Noboa,9 April 1985 ,29,42,Dynamo Moscow
+7,MF,Jefferson Montero,1 September 1989 ,24,40,Morelia
+8,MF,Édison Méndez,16 March 1979 ,35,110,Santa Fe
+9,MF,Joao Rojas,14 June 1989 ,24,30,Cruz Azul
+10,DF,Walter Ayoví,11 August 1979 ,34,90,Pachuca
+11,FW,Felipe Caicedo,5 September 1988 ,25,50,Al-Jazira
+12,GK,Adrián Bone,8 September 1988 ,25,3,El Nacional
+13,FW,Enner Valencia,11 April 1989 ,25,10,Pachuca
+14,MF,Oswaldo Minda,26 July 1983 ,30,18,Chivas USA
+15,MF,Michael Arroyo,23 April 1987 ,27,21,Atlante
+16,MF,Antonio Valencia (c),4 August 1985 ,28,71,Manchester United
+17,FW,Jaime Ayoví,21 February 1988 ,26,30,Tijuana
+18,DF,Óscar Bagüí,10 December 1982 ,31,21,Emelec
+19,MF,Luis Saritama,20 October 1983 ,30,49,Barcelona
+20,MF,Fidel Martínez,15 February 1990 ,24,8,Tijuana[86]
+21,DF,Gabriel Achilier,24 March 1985 ,29,23,Emelec
+22,GK,Alexander Domínguez,5 June 1987 ,27,18,LDU Quito
+23,MF,Carlos Gruezo,19 April 1995 ,19,3,VfB Stuttgart
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Hugo Lloris (c),26 December 1986 ,27,57,Tottenham Hotspur
+2,DF,Mathieu Debuchy,28 July 1985 ,28,21,Newcastle United
+3,DF,Patrice Evra,15 May 1981 ,33,58,Manchester United
+4,DF,Raphaël Varane,25 April 1993 ,21,6,Real Madrid
+5,DF,Mamadou Sakho,13 February 1990 ,24,19,Liverpool
+6,MF,Yohan Cabaye,14 January 1986 ,28,30,Paris Saint-Germain
+7,MF,Rémy Cabella[90],8 March 1990 ,24,1,Montpellier
+8,MF,Mathieu Valbuena,28 September 1984 ,29,34,Marseille
+9,FW,Olivier Giroud,30 September 1986 ,27,30,Arsenal
+10,FW,Karim Benzema,19 December 1987 ,26,66,Real Madrid
+11,MF,Antoine Griezmann,21 March 1991 ,23,4,Real Sociedad
+12,MF,Rio Mavuba,8 March 1984 ,30,12,Lille
+13,DF,Eliaquim Mangala,13 February 1991 ,23,3,Porto
+14,MF,Blaise Matuidi,9 April 1987 ,27,23,Paris Saint-Germain
+15,DF,Bacary Sagna,14 February 1983 ,31,41,Arsenal[91]
+16,GK,Stéphane Ruffier[92],27 September 1986 ,27,2,Saint-Étienne
+17,DF,Lucas Digne,20 July 1993 ,20,2,Paris Saint-Germain
+18,MF,Moussa Sissoko,16 August 1989 ,24,17,Newcastle United
+19,MF,Paul Pogba,15 March 1993 ,21,11,Juventus
+20,FW,Loïc Rémy,2 January 1987 ,27,25,Newcastle United[93]
+21,DF,Laurent Koscielny,10 September 1985 ,28,17,Arsenal
+22,MF,Morgan Schneiderlin[94],8 November 1989 ,24,1,Southampton
+23,GK,Mickaël Landreau,14 May 1979 ,35,11,Bastia
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Luis López,13 September 1993 ,20,0,Real España
+2,DF,Osman Chávez,29 July 1984 ,29,54,Qingdao Jonoon[96]
+3,DF,Maynor Figueroa,2 May 1983 ,31,105,Hull City
+4,DF,Juan Pablo Montes,26 October 1985 ,28,11,Motagua
+5,DF,Víctor Bernárdez,24 May 1982 ,32,78,San Jose Earthquakes
+6,DF,Juan Carlos García,8 March 1988 ,26,34,Wigan Athletic
+7,DF,Emilio Izaguirre,10 May 1986 ,28,68,Celtic
+8,MF,Wilson Palacios,29 July 1984 ,29,95,Stoke City
+9,FW,Jerry Palacios,1 November 1981 ,32,24,Alajuelense
+10,MF,Mario Martínez,30 July 1989 ,24,37,Real España
+11,FW,Jerry Bengtson,8 April 1987 ,27,44,New England Revolution
+12,MF,Edder Delgado[97],20 November 1986 ,27,26,Real España
+13,FW,Carlo Costly,18 July 1982 ,31,70,Real España
+14,MF,Óscar Boniek García,4 September 1984 ,29,92,Houston Dynamo
+15,MF,Roger Espinoza,25 October 1986 ,27,42,Wigan Athletic
+16,FW,Rony Martínez,16 October 1988 ,25,12,Real Sociedad
+17,MF,Andy Najar,16 March 1993 ,21,17,Anderlecht
+18,GK,Noel Valladares (c),3 May 1977 ,37,122,Olimpia
+19,MF,Luis Garrido,5 November 1990 ,23,20,Olimpia
+20,MF,Jorge Claros,8 January 1986 ,28,49,Motagua
+21,DF,Brayan Beckeles,28 November 1985 ,28,23,Olimpia
+22,GK,Donis Escober,3 February 1980 ,34,26,Olimpia
+23,MF,Marvin Chávez,3 November 1983 ,30,42,Chivas USA
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Diego Benaglio,8 September 1983 ,30,57,VfL Wolfsburg
+2,DF,Stephan Lichtsteiner,16 January 1984 ,30,63,Juventus
+3,DF,Reto Ziegler,16 January 1986 ,28,35,Sassuolo[100]
+4,DF,Philippe Senderos,14 February 1985 ,29,53,Valencia[101]
+5,DF,Steve von Bergen,10 June 1983 ,31,41,Young Boys
+6,DF,Michael Lang,8 February 1991 ,23,6,Grasshopper
+7,MF,Tranquillo Barnetta,22 May 1985 ,29,74,Eintracht Frankfurt
+8,MF,Gökhan Inler (c),27 June 1984 ,29,73,Napoli
+9,FW,Haris Seferović,22 February 1992 ,22,11,Real Sociedad
+10,MF,Granit Xhaka,27 September 1992 ,21,26,Borussia Mönchengladbach
+11,MF,Valon Behrami,19 April 1985 ,29,48,Napoli
+12,GK,Yann Sommer,17 December 1988 ,25,6,Basel[102]
+13,DF,Ricardo Rodríguez,25 August 1992 ,21,21,VfL Wolfsburg
+14,MF,Valentin Stocker,12 April 1989 ,25,24,Basel[103]
+15,MF,Blerim Džemaili,12 April 1986 ,28,34,Napoli
+16,MF,Gelson Fernandes,2 September 1986 ,27,47,SC Freiburg
+17,FW,Mario Gavranović,24 November 1989 ,24,11,Zürich
+18,FW,Admir Mehmedi,16 March 1991 ,23,21,SC Freiburg[104]
+19,FW,Josip Drmić,8 August 1992 ,21,7,1. FC Nürnberg[105]
+20,DF,Johan Djourou,18 January 1987 ,27,44,Hamburger SV[106]
+21,GK,Roman Bürki,14 November 1990 ,23,0,Grasshopper[107]
+22,DF,Fabian Schär,20 December 1991 ,22,6,Basel
+23,MF,Xherdan Shaqiri,10 October 1991 ,22,33,Bayern Munich
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Sergio Romero,22 February 1987 ,27,47,Monaco
+2,DF,Ezequiel Garay,10 October 1986 ,27,18,Benfica[110]
+3,DF,Hugo Campagnaro,27 June 1980 ,33,15,Internazionale
+4,DF,Pablo Zabaleta,16 January 1985 ,29,36,Manchester City
+5,MF,Fernando Gago,10 April 1986 ,28,49,Boca Juniors
+6,MF,Lucas Biglia,30 January 1986 ,28,18,Lazio
+7,MF,Ángel Di María,14 February 1988 ,26,47,Real Madrid
+8,MF,Enzo Pérez,22 February 1986 ,28,7,Benfica
+9,FW,Gonzalo Higuaín,10 December 1987 ,26,36,Napoli
+10,FW,Lionel Messi (c),24 June 1987 ,26,86,Barcelona
+11,MF,Maxi Rodríguez,2 January 1981 ,33,55,Newell's Old Boys
+12,GK,Agustín Orión,26 July 1981 ,32,3,Boca Juniors
+13,MF,Augusto Fernández,10 April 1986 ,28,9,Celta Vigo
+14,MF,Javier Mascherano,8 June 1984 ,30,98,Barcelona
+15,DF,Martín Demichelis,20 December 1980 ,33,38,Manchester City
+16,DF,Marcos Rojo,20 March 1990 ,24,22,Sporting CP
+17,DF,Federico Fernández,21 February 1989 ,25,26,Napoli
+18,FW,Rodrigo Palacio,5 February 1982 ,32,22,Internazionale
+19,MF,Ricky Álvarez,12 April 1988 ,26,7,Internazionale
+20,FW,Sergio Agüero,2 June 1988 ,26,51,Manchester City
+21,GK,Mariano Andújar,30 July 1983 ,30,10,Catania[111]
+22,FW,Ezequiel Lavezzi,3 May 1985 ,29,31,Paris Saint-Germain
+23,DF,José María Basanta,3 April 1984 ,30,10,Monterrey
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Asmir Begović,20 June 1987 ,26,30,Stoke City
+2,DF,Avdija Vršajević,6 March 1986 ,28,13,Hajduk Split
+3,DF,Ermin Bičakčić,24 January 1990 ,24,7,Eintracht Braunschweig[113]
+4,DF,Emir Spahić (c),18 August 1980 ,33,74,Bayer Leverkusen
+5,DF,Sead Kolašinac,20 June 1993 ,20,4,Schalke 04
+6,DF,Ognjen Vranješ,24 October 1989 ,24,13,Elazığspor
+7,DF,Muhamed Bešić,10 September 1992 ,21,9,Ferencváros
+8,MF,Miralem Pjanić,2 April 1990 ,24,48,Roma
+9,FW,Vedad Ibišević,6 August 1984 ,29,55,VfB Stuttgart
+10,MF,Zvjezdan Misimović,5 June 1982 ,32,81,Guizhou Renhe
+11,FW,Edin Džeko,17 March 1986 ,28,62,Manchester City
+12,GK,Jasmin Fejzić,15 May 1986 ,28,0,VfR Aalen
+13,DF,Mensur Mujdža,28 March 1984 ,30,24,SC Freiburg
+14,MF,Tino-Sven Sušić,13 February 1992 ,22,2,Hajduk Split
+15,DF,Toni Šunjić,15 December 1988 ,25,8,Zorya Luhansk[114]
+16,MF,Senad Lulić,18 January 1986 ,28,33,Lazio
+17,MF,Senijad Ibričić,26 September 1985 ,28,42,Kayseri Erciyesspor
+18,MF,Haris Medunjanin,8 March 1985 ,29,35,Gaziantepspor
+19,FW,Edin Višća,17 February 1990 ,24,10,İstanbul Başakşehir
+20,MF,Izet Hajrović,4 August 1991 ,22,7,Galatasaray[115]
+21,MF,Anel Hadžić,16 August 1989 ,24,2,Sturm Graz
+22,GK,Asmir Avdukić,13 May 1981 ,33,3,Borac Banja Luka
+23,MF,Sejad Salihović,8 October 1984 ,29,42,1899 Hoffenheim
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Rahman Ahmadi,30 July 1980 ,33,10,Sepahan
+2,MF,Khosro Heydari,14 September 1983 ,30,49,Esteghlal
+3,MF,Ehsan Hajsafi,25 February 1990 ,24,62,Sepahan
+4,DF,Jalal Hosseini,3 February 1982 ,32,85,Persepolis
+5,DF,Amir Hossein Sadeghi,6 September 1981 ,32,17,Esteghlal
+6,MF,Javad Nekounam (c),7 October 1980 ,33,140,Al-Kuwait
+7,MF,Masoud Shojaei,9 June 1984 ,30,50,Las Palmas
+8,MF,Reza Haghighi,1 February 1989 ,25,8,Persepolis
+9,FW,Alireza Jahanbakhsh,11 August 1993 ,20,7,NEC
+10,FW,Karim Ansarifard,3 April 1990 ,24,42,Tractor Sazi
+11,MF,Ghasem Haddadifar,12 July 1983 ,30,17,Zob Ahan
+12,GK,Alireza Haghighi,2 May 1988 ,26,6,Sporting Covilhã[117]
+13,DF,Hossein Mahini,16 September 1986 ,27,22,Persepolis
+14,MF,Andranik Teymourian,6 March 1983 ,31,79,Esteghlal
+15,DF,Pejman Montazeri,6 September 1983 ,30,22,Umm Salal
+16,FW,Reza Ghoochannejhad,20 September 1987 ,26,14,Charlton Athletic
+17,DF,Ahmad Alenemeh,10 October 1982 ,31,9,Naft Tehran
+18,MF,Bakhtiar Rahmani,23 September 1991 ,22,4,Foolad
+19,DF,Hashem Beikzadeh,22 January 1984 ,30,17,Esteghlal
+20,DF,Steven Beitashour,1 February 1987 ,27,6,Vancouver Whitecaps FC
+21,MF,Ashkan Dejagah,5 July 1986 ,27,14,Fulham
+22,GK,Daniel Davari,6 January 1988 ,26,4,Eintracht Braunschweig[118]
+23,DF,Mehrdad Pouladi,26 February 1987 ,27,20,Persepolis
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Vincent Enyeama,29 August 1982 ,31,91,Lille
+2,DF,Joseph Yobo (c),6 September 1980 ,33,97,Norwich City[121]
+3,MF,Ejike Uzoenyi,23 March 1988 ,26,21,Enugu Rangers[122]
+4,MF,Reuben Gabriel,25 September 1990 ,23,11,Waasland-Beveren
+5,DF,Efe Ambrose,18 October 1988 ,25,37,Celtic
+6,DF,Azubuike Egwuekwe,16 July 1989 ,24,31,Warri Wolves
+7,FW,Ahmed Musa,14 October 1992 ,21,35,CSKA Moscow
+8,FW,Peter Odemwingie,15 July 1981 ,32,61,Stoke City
+9,FW,Emmanuel Emenike,10 May 1987 ,27,23,Fenerbahçe
+10,MF,John Obi Mikel,22 April 1987 ,27,59,Chelsea
+11,MF,Victor Moses,12 December 1990 ,23,22,Liverpool[123]
+12,DF,Kunle Odunlami,30 April 1991 ,23,11,Sunshine Stars
+13,DF,Juwon Oshaniwa,14 September 1990 ,23,10,Ashdod
+14,DF,Godfrey Oboabona,16 August 1990 ,23,35,Çaykur Rizespor
+15,MF,Ramon Azeez,12 December 1992 ,21,2,Almería
+16,GK,Austin Ejide,8 April 1984 ,30,31,Hapoel Be'er Sheva
+17,MF,Ogenyi Onazi,25 December 1992 ,21,21,Lazio
+18,MF,Michael Babatunde,24 December 1992 ,21,5,Volyn Lutsk
+19,FW,Uche Nwofor,17 September 1991 ,22,6,Heerenveen[124]
+20,FW,Michael Uchebo,2 February 1990 ,24,4,Cercle Brugge
+21,GK,Chigozie Agbim,28 November 1984 ,29,11,Gombe United
+22,DF,Kenneth Omeruo,17 October 1993 ,20,17,Middlesbrough[125]
+23,FW,Shola Ameobi,12 October 1981 ,32,7,Newcastle United
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Manuel Neuer,27 March 1986 ,28,45,Bayern Munich
+2,DF,Kevin Großkreutz,19 July 1988 ,25,5,Borussia Dortmund
+3,DF,Matthias Ginter,19 January 1994 ,20,2,SC Freiburg
+4,DF,Benedikt Höwedes,29 February 1988 ,26,21,Schalke 04
+5,DF,Mats Hummels,16 December 1988 ,25,30,Borussia Dortmund
+6,MF,Sami Khedira,4 April 1987 ,27,46,Real Madrid
+7,MF,Bastian Schweinsteiger,1 August 1984 ,29,102,Bayern Munich
+8,MF,Mesut Özil,15 October 1988 ,25,55,Arsenal
+9,FW,André Schürrle,6 November 1990 ,23,33,Chelsea
+10,FW,Lukas Podolski,4 June 1985 ,29,114,Arsenal
+11,FW,Miroslav Klose,9 June 1978 ,36,132,Lazio
+12,GK,Ron-Robert Zieler,12 February 1989 ,25,3,Hannover 96
+13,FW,Thomas Müller,13 September 1989 ,24,49,Bayern Munich
+14,MF,Julian Draxler,20 September 1993 ,20,11,Schalke 04
+15,DF,Erik Durm,12 May 1992 ,22,1,Borussia Dortmund
+16,DF,Philipp Lahm (c),11 November 1983 ,30,106,Bayern Munich
+17,DF,Per Mertesacker,29 September 1984 ,29,98,Arsenal
+18,MF,Toni Kroos,4 January 1990 ,24,44,Bayern Munich
+19,MF,Mario Götze,3 June 1992 ,22,29,Bayern Munich
+20,DF,Jérôme Boateng,3 September 1988 ,25,39,Bayern Munich
+21,DF,Shkodran Mustafi,17 April 1992 ,22,1,Sampdoria
+22,GK,Roman Weidenfeller,6 August 1980 ,33,3,Borussia Dortmund
+23,MF,Christoph Kramer,19 February 1991 ,23,2,Borussia Mönchengladbach
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Stephen Adams,28 September 1989 ,24,7,Aduana Stars
+2,DF,Samuel Inkoom,1 June 1989 ,25,46,Platanias[131]
+3,FW,Asamoah Gyan (c),22 November 1985 ,28,79,Al-Ain
+4,DF,Daniel Opare,18 October 1990 ,23,16,Standard Liège[132]
+5,MF,Michael Essien,3 December 1982 ,31,57,Milan
+6,MF,Afriyie Acquah,5 January 1992 ,22,5,Parma
+7,MF,Christian Atsu,10 January 1992 ,22,23,Vitesse[133]
+8,MF,Emmanuel Agyemang-Badu,2 December 1990 ,23,49,Udinese
+9,FW,Kevin-Prince Boateng,6 March 1987 ,27,13,Schalke 04
+10,MF,André Ayew,17 December 1989 ,24,49,Marseille
+11,MF,Sulley Muntari,27 August 1984 ,29,82,Milan
+12,GK,Adam Kwarasey,12 December 1987 ,26,21,Strømsgodset
+13,FW,Jordan Ayew,11 September 1991 ,22,13,Sochaux[134]
+14,MF,Albert Adomah,13 December 1987 ,26,15,Middlesbrough
+15,DF,Rashid Sumaila,18 December 1992 ,21,6,Mamelodi Sundowns
+16,GK,Fatau Dauda,6 April 1985 ,29,18,Orlando Pirates
+17,MF,Mohammed Rabiu,31 December 1989 ,24,17,Kuban Krasnodar
+18,FW,Majeed Waris,19 September 1991 ,22,13,Valenciennes[135]
+19,DF,Jonathan Mensah,13 July 1990 ,23,27,Evian
+20,MF,Kwadwo Asamoah,9 December 1988 ,25,62,Juventus
+21,DF,John Boye,23 April 1987 ,27,30,Rennes
+22,MF,Wakaso Mubarak,25 July 1990 ,23,17,Rubin Kazan
+23,DF,Harrison Afful,24 June 1986 ,27,41,Espérance
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Eduardo,19 September 1982 ,31,34,Braga[138]
+2,DF,Bruno Alves,27 November 1981 ,32,72,Fenerbahçe
+3,DF,Pepe,26 February 1983 ,31,58,Real Madrid
+4,MF,Miguel Veloso,11 May 1986 ,28,49,Dynamo Kyiv
+5,DF,Fábio Coentrão,11 March 1988 ,26,45,Real Madrid
+6,MF,William Carvalho,7 April 1992 ,22,4,Sporting CP
+7,FW,Cristiano Ronaldo (c),5 February 1985 ,29,111,Real Madrid
+8,MF,João Moutinho,8 September 1986 ,27,68,Monaco
+9,FW,Hugo Almeida,23 May 1984 ,30,55,Beşiktaş
+10,MF,Vieirinha,24 January 1986 ,28,9,VfL Wolfsburg
+11,FW,Éder,22 December 1987 ,26,8,Braga
+12,GK,Rui Patrício,15 February 1988 ,26,30,Sporting CP
+13,DF,Ricardo Costa,16 May 1981 ,33,19,Valencia
+14,DF,Luís Neto,26 May 1988 ,26,9,Zenit Saint Petersburg
+15,MF,Rafa Silva,17 May 1993 ,21,3,Braga
+16,MF,Raul Meireles,17 March 1983 ,31,74,Fenerbahçe
+17,MF,Nani,17 November 1986 ,27,75,Manchester United
+18,MF,Silvestre Varela,2 February 1985 ,29,24,Porto
+19,DF,André Almeida,10 September 1990 ,23,5,Benfica
+20,MF,Rúben Amorim,27 January 1985 ,29,13,Benfica
+21,DF,João Pereira,25 February 1984 ,30,36,Valencia
+22,GK,Beto,1 May 1982 ,32,7,Sevilla
+23,FW,Hélder Postiga,2 August 1982 ,31,69,Lazio[139]
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Tim Howard,6 March 1979 ,35,100,Everton
+2,DF,DeAndre Yedlin,9 July 1993 ,20,4,Seattle Sounders FC
+3,DF,Omar Gonzalez,11 October 1988 ,25,20,Los Angeles Galaxy
+4,MF,Michael Bradley,31 July 1987 ,26,86,Toronto FC
+5,DF,Matt Besler,11 February 1987 ,27,17,Sporting Kansas City
+6,DF,John Brooks,28 January 1993 ,21,4,Hertha BSC
+7,DF,DaMarcus Beasley,24 May 1982 ,32,116,Puebla
+8,FW,Clint Dempsey (c),9 March 1983 ,31,105,Seattle Sounders FC
+9,FW,Aron Jóhannsson,10 November 1990 ,23,8,AZ
+10,MF,Mix Diskerud,2 October 1990 ,23,20,Rosenborg
+11,MF,Alejandro Bedoya,29 April 1987 ,27,28,Nantes
+12,GK,Brad Guzan,9 September 1984 ,29,25,Aston Villa
+13,MF,Jermaine Jones,3 November 1981 ,32,42,Beşiktaş
+14,MF,Brad Davis,8 November 1981 ,32,16,Houston Dynamo
+15,MF,Kyle Beckerman,23 April 1982 ,32,37,Real Salt Lake
+16,MF,Julian Green,6 June 1995 ,19,2,Bayern Munich
+17,FW,Jozy Altidore,6 November 1989 ,24,70,Sunderland
+18,FW,Chris Wondolowski,28 January 1983 ,31,21,San Jose Earthquakes
+19,MF,Graham Zusi,18 August 1986 ,27,23,Sporting Kansas City
+20,DF,Geoff Cameron,11 July 1985 ,28,27,Stoke City
+21,DF,Timothy Chandler,29 March 1990 ,24,13,1. FC Nürnberg
+22,GK,Nick Rimando,17 June 1979 ,34,14,Real Salt Lake
+23,DF,Fabian Johnson,11 December 1987 ,26,22,1899 Hoffenheim[141]
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Cédric Si Mohamed,9 January 1985 ,29,1,CS Constantine
+2,DF,Madjid Bougherra (c),7 October 1982 ,31,62,Lekhwiya[143]
+3,DF,Faouzi Ghoulam,1 February 1991 ,23,6,Napoli
+4,DF,Essaïd Belkalem,1 January 1989 ,25,13,Watford
+5,DF,Rafik Halliche,2 September 1986 ,27,29,Académica de Coimbra
+6,DF,Djamel Mesbah,9 October 1984 ,29,26,Livorno
+7,MF,Hassan Yebda,14 May 1984 ,30,25,Udinese
+8,MF,Medhi Lacen,15 May 1984 ,30,30,Getafe
+9,FW,Nabil Ghilas,20 April 1990 ,24,5,Porto
+10,MF,Sofiane Feghouli,26 December 1989 ,24,19,Valencia
+11,MF,Yacine Brahimi,8 February 1990 ,24,6,Granada
+12,DF,Carl Medjani,15 May 1985 ,29,26,Valenciennes
+13,FW,Islam Slimani,18 June 1988 ,25,20,Sporting CP
+14,MF,Nabil Bentaleb,24 November 1994 ,19,3,Tottenham Hotspur
+15,FW,El Arbi Hillel Soudani,25 November 1987 ,26,22,Dinamo Zagreb
+16,GK,Mohamed Zemmamouche,19 March 1985 ,29,7,USM Alger
+17,DF,Liassine Cadamuro-Bentaïba,5 March 1988 ,26,7,Mallorca
+18,MF,Abdelmoumene Djabou,31 January 1987 ,27,8,Club Africain
+19,MF,Saphir Taïder,29 February 1992 ,22,11,Internazionale
+20,DF,Aïssa Mandi,22 October 1991 ,22,2,Reims
+21,MF,Riyad Mahrez,21 February 1991 ,23,2,Leicester City
+22,MF,Mehdi Mostefa,30 August 1983 ,30,23,Ajaccio
+23,GK,Raïs M'Bolhi,25 April 1986 ,28,28,CSKA Sofia
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Thibaut Courtois,11 May 1992 ,22,17,Atlético Madrid[146]
+2,DF,Toby Alderweireld,2 March 1989 ,25,34,Atlético Madrid
+3,DF,Thomas Vermaelen,14 November 1985 ,28,47,Arsenal
+4,DF,Vincent Kompany (c),10 April 1986 ,28,59,Manchester City
+5,DF,Jan Vertonghen,24 April 1987 ,27,56,Tottenham Hotspur
+6,MF,Axel Witsel,12 January 1989 ,25,48,Zenit Saint Petersburg
+7,MF,Kevin De Bruyne,28 June 1991 ,22,21,VfL Wolfsburg
+8,MF,Marouane Fellaini,22 November 1987 ,26,50,Manchester United
+9,FW,Romelu Lukaku,13 May 1993 ,21,29,Everton[147]
+10,MF,Eden Hazard,7 January 1991 ,23,45,Chelsea
+11,MF,Kevin Mirallas,5 October 1987 ,26,44,Everton
+12,GK,Simon Mignolet,6 August 1988 ,25,14,Liverpool
+13,GK,Sammy Bossut,11 August 1985 ,28,0,Zulte Waregem
+14,FW,Dries Mertens,6 May 1987 ,27,25,Napoli
+15,DF,Daniel Van Buyten,7 February 1978 ,36,79,Bayern Munich
+16,MF,Steven Defour,15 April 1988 ,26,43,Porto
+17,FW,Divock Origi,18 April 1995 ,19,2,Lille
+18,DF,Nicolas Lombaerts,20 March 1985 ,29,25,Zenit Saint Petersburg
+19,MF,Moussa Dembélé,16 July 1987 ,26,57,Tottenham Hotspur
+20,MF,Adnan Januzaj,5 February 1995 ,19,1,Manchester United
+21,DF,Anthony Vanden Borre,24 October 1987 ,26,25,Anderlecht
+22,MF,Nacer Chadli,2 October 1989 ,24,20,Tottenham Hotspur
+23,DF,Laurent Ciman,5 August 1985 ,28,8,Standard Liège
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Igor Akinfeev,8 April 1986 ,28,68,CSKA Moscow
+2,DF,Aleksei Kozlov,16 November 1986 ,27,11,Dynamo Moscow
+3,DF,Georgi Shchennikov,27 April 1991 ,23,4,CSKA Moscow
+4,DF,Sergei Ignashevich,14 July 1979 ,34,96,CSKA Moscow
+5,DF,Andrei Semyonov,24 March 1989 ,25,1,Terek Grozny
+6,FW,Maksim Kanunnikov,14 July 1991 ,22,2,Amkar Perm[150]
+7,MF,Igor Denisov,17 May 1984 ,30,43,Dynamo Moscow
+8,MF,Denis Glushakov,27 January 1987 ,27,26,Spartak Moscow
+9,FW,Aleksandr Kokorin,19 March 1991 ,23,21,Dynamo Moscow
+10,MF,Alan Dzagoev,17 June 1990 ,23,32,CSKA Moscow
+11,FW,Aleksandr Kerzhakov,27 November 1982 ,31,80,Zenit Saint Petersburg
+12,GK,Yuri Lodygin,26 May 1990 ,24,3,Zenit Saint Petersburg
+13,DF,Vladimir Granat,22 May 1987 ,27,5,Dynamo Moscow
+14,DF,Vasili Berezutski (c),20 June 1982 ,31,78,CSKA Moscow
+15,MF,Pavel Mogilevets,25 January 1993 ,21,1,Rubin Kazan[151]
+16,GK,Sergey Ryzhikov,19 September 1980 ,33,1,Rubin Kazan
+17,MF,Oleg Shatov,29 July 1990 ,23,7,Zenit Saint Petersburg
+18,DF,Yuri Zhirkov,20 August 1983 ,30,60,Dynamo Moscow
+19,FW,Aleksandr Samedov,19 July 1984 ,29,17,Lokomotiv Moscow
+20,MF,Viktor Fayzulin,22 April 1986 ,28,19,Zenit Saint Petersburg
+21,FW,Aleksei Ionov,18 February 1989 ,25,5,Dynamo Moscow
+22,DF,Andrey Yeshchenko,9 February 1984 ,30,12,Anzhi Makhachkala[152]
+23,DF,Dmitri Kombarov,22 January 1987 ,27,22,Spartak Moscow
+
+No.,Pos.,Player,Date of birth ,(age),Caps,Club
+1,GK,Jung Sung-ryong,4 January 1985 ,29,61,Suwon Bluewings
+2,DF,Kim Chang-soo,12 September 1985 ,28,9,Kashiwa Reysol
+3,DF,Yun Suk-young,13 February 1990 ,24,4,Queens Park Rangers
+4,DF,Kwak Tae-hwi,8 July 1981 ,32,35,Al-Hilal
+5,DF,Kim Young-gwon,27 February 1990 ,24,21,Guangzhou Evergrande
+6,DF,Hwang Seok-ho,27 June 1989 ,24,3,Sanfrecce Hiroshima
+7,MF,Kim Bo-kyung,6 October 1989 ,24,28,Cardiff City
+8,MF,Ha Dae-sung,2 March 1985 ,29,13,Beijing Guoan
+9,FW,Son Heung-min,8 July 1992 ,21,25,Bayer Leverkusen
+10,FW,Park Chu-young,10 July 1985 ,28,64,Watford[156]
+11,FW,Lee Keun-ho,11 April 1985 ,29,63,Sangju Sangmu
+12,DF,Lee Yong,24 December 1986 ,27,12,Ulsan Hyundai
+13,MF,Koo Ja-cheol (c),27 February 1989 ,25,37,Mainz 05
+14,MF,Han Kook-young,19 April 1990 ,24,10,Kashiwa Reysol
+15,MF,Park Jong-woo,10 March 1989 ,25,10,Guangzhou R&F
+16,MF,Ki Sung-yueng,24 January 1989 ,25,58,Sunderland[157]
+17,MF,Lee Chung-yong,2 July 1988 ,25,55,Bolton Wanderers
+18,FW,Kim Shin-wook,14 April 1988 ,26,27,Ulsan Hyundai
+19,FW,Ji Dong-won,28 May 1991 ,23,28,FC Augsburg[158]
+20,DF,Hong Jeong-ho,12 August 1989 ,24,25,FC Augsburg
+21,GK,Kim Seung-gyu,30 September 1990 ,23,5,Ulsan Hyundai
+22,DF,Park Joo-ho[159],16 January 1987 ,27,14,Mainz 05
+23,GK,Lee Bum-young,2 April 1989 ,25,0,Busan IPark
+
+Country,Players,Outsidenationalsquad
+England,119,97
+Italy,81,61
+Germany,78,61
+Spain,64,50
+France,46,38
+Russia,34,11
+Turkey,26,26
+Mexico,26,11
+Portugal,23,15
+United States,21,12
+Netherlands,20,10
+
+Club,Players
+Bayern Munich,14
+Manchester United,14
+Barcelona,13
+Chelsea,12
+Juventus,12
+Napoli,12
+Real Madrid,12
+Arsenal,10
+Liverpool,10
+Manchester City,10
+Paris Saint-Germain,10
+
+Nº,Country,Coaches
+4,Germany,"Volker Finke (Cameroon), Ottmar Hitzfeld (Switzerland), Jürgen Klinsmann (United States), Joachim Löw"
+3,Argentina,"José Pékerman (Colombia), Alejandro Sabella, Jorge Sampaoli (Chile)"
+3,Colombia,"Jorge Luis Pinto (Costa Rica), Reinaldo Rueda (Ecuador), Luis Fernando Suárez (Honduras)"
+3,Italy,"Fabio Capello (Russia), Cesare Prandelli, Alberto Zaccheroni (Japan)"
+3,Portugal,"Paulo Bento, Carlos Queiroz (Iran), Fernando Santos (Greece)"
+2,Bosnia and Herzegovina,"Vahid Halilhodžić (Algeria), Safet Sušić"
+2,France,"Didier Deschamps, Sabri Lamouchi (Ivory Coast)"
+1,Australia,Ange Postecoglou
+1,Belgium,Marc Wilmots
+1,Brazil,Luiz Felipe Scolari
+1,Croatia,Niko Kovač
+1,England,Roy Hodgson
+1,Ghana,James Kwesi Appiah
+1,Mexico,Miguel Herrera
+1,Netherlands,Louis van Gaal
+1,Nigeria,Stephen Keshi
+1,South Korea,Hong Myung-bo
+1,Spain,Vicente del Bosque
+1,Uruguay,Óscar Tabárez
