@@ -1,0 +1,15 @@
+@font-face {
+    font-family: dusha_plusregular;
+    font-style: normal;
+    font-weight: bold;
+    src: url('dusha-regular.woff');
+    src: url('dusha-regular.woff') format('embedded-opentype'), /* FF39+,Chrome36+, Opera24+*/ url('dusha-regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: OpenSans;
+    font-style: normal;
+    font-weight: 500;
+    src: url('OpenSans-Regular-complete.woff');
+    src: url('OpenSans-Regular-complete.woff') format('embedded-opentype'), /* FF39+,Chrome36+, Opera24+*/ url('OpenSans-Regular-complete.woff') format('woff');
+}

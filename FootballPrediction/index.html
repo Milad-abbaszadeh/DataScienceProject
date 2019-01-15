@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <!-- Meta Tags START -->
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/png" href="images/icon.png"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>2018 FIFA World Cup Russia</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description"
+          content="2018 FIFA World Cup Russia Prediction">
+    <meta name="keywords" content="2018 FIFA World Cup Russia, football, world cup, 2018">
+    <meta name="author" content="TeraPico">
+    <!-- Meta Tags ENDS -->
+
+    <!-- Stylesheets START -->
+    <link rel="stylesheet" type="text/css" href="libs/semantic-ui/semantic/dist/semantic.css">
+    <link rel="stylesheet" type="text/css" href="styles/fonts/fonts.css">
+    <link rel="stylesheet" type="text/css" href="styles/customize.css">
+    <!-- Stylesheets ENDS -->
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+</head>
+<body>
+
+    <div class="ui container">
+        <div class="ui grid">
+            <div class="sixteen wide column center aligned my-2">
+                <h1>2018 FIFA WORLD CUP RUSSIA</h1>
+            </div>
+        </div>
+        <div class="sixteen wide column">
+            <div class="bg-dark ui container center aligned">
+                <div class="ui grid">
+                    <div class="seven wide column">
+                        <img class="ui small circular image centered" id="flag1" src="images/question.png">
+                        <br>
+                        <div class="ui search selection dropdown">
+                            <input type="hidden" name="country" id="team1">
+                            <i class="dropdown icon"></i>
+                            <div class="default text">Select Country</div>
+                            <div class="menu">
+                                <div class="item" data-value="Argentina"><i class="ar flag"></i>Argentina</div>
+                                <div class="item" data-value="Australia"><i class="au flag"></i>Australia</div>
+                                <div class="item" data-value="Belgium"><i class="be flag"></i>Belgium</div>
+                                <div class="item" data-value="Brazil"><i class="br flag"></i>Brazil</div>
+                                <div class="item" data-value="Colombia"><i class="co flag"></i>Colombia</div>
+                                <div class="item" data-value="Costa Rica"><i class="cr flag"></i>Costa Rica</div>
+                                <div class="item" data-value="Croatia"><i class="hr flag"></i>Croatia</div>
+                                <div class="item" data-value="Denmark"><i class="dk flag"></i>Denmark</div>
+                                <div class="item" data-value="Egypt"><i class="eg flag"></i>Egypt</div>
+                                <div class="item" data-value="England"><i class="gb flag"></i>England</div>
+                                <div class="item" data-value="France"><i class="fr flag"></i>France</div>
+                                <div class="item" data-value="Germany"><i class="de flag"></i>Germany</div>
+                                <div class="item" data-value="Iceland"><i class="is flag"></i>Iceland</div>
+                                <div class="item" data-value="Iran"><i class="ir flag"></i>Iran</div>
+                                <div class="item" data-value="Japan"><i class="jp flag"></i>Japan</div>
+                                <div class="item" data-value="Korea Republic"><i class="kr flag"></i>Korea Republic</div>
+                                <div class="item" data-value="Mexico"><i class="mx flag"></i>Mexico</div>
+                                <div class="item" data-value="Morocco"><i class="ma flag"></i>Morocco</div>
+                                <div class="item" data-value="Nigeria"><i class="ng flag"></i>Nigeria</div>
+                                <div class="item" data-value="Panama"><i class="pa flag"></i>Panama</div>
+                                <div class="item" data-value="Peru"><i class="pe flag"></i>Peru</div>
+                                <div class="item" data-value="Poland"><i class="pl flag"></i>Poland</div>
+                                <div class="item" data-value="Portugal"><i class="pt flag"></i>Portugal</div>
+                                <div class="item" data-value="Russia"><i class="ru flag"></i>Russia</div>
+                                <div class="item" data-value="Saudi Arabia"><i class="sa flag"></i>Saudi Arabia</div>
+                                <div class="item" data-value="Senegal"><i class="sn flag"></i>Senegal</div>
+                                <div class="item" data-value="Serbia"><i class="rs flag"></i>Serbia</div>
+                                <div class="item" data-value="Spain"><i class="es flag"></i>Spain</div>
+                                <div class="item" data-value="Sweden"><i class="se flag"></i>Sweden</div>
+                                <div class="item" data-value="Switzerland"><i class="ch flag"></i>Switzerland</div>
+                                <div class="item" data-value="Tunisia"><i class="tn flag"></i>Tunisia</div>
+                                <div class="item" data-value="Uruguay"><i class="uy flag"></i>Uruguay</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="two wide column my-2">
+                        <h2>VS.</h2>
+                    </div>
+                    <div class="seven wide column">
+                        <img class="ui small circular image centered" id="flag2" src="images/question.png">
+                        <br>
+                        <div class="ui search selection dropdown">
+                            <input type="hidden" name="country" id="team2">
+                            <i class="dropdown icon"></i>
+                            <div class="default text">Select Country</div>
+                            <div class="menu">
+                                <div class="item" data-value="Argentina"><i class="ar flag"></i>Argentina</div>
+                                <div class="item" data-value="Australia"><i class="au flag"></i>Australia</div>
+                                <div class="item" data-value="Belgium"><i class="be flag"></i>Belgium</div>
+                                <div class="item" data-value="Brazil"><i class="br flag"></i>Brazil</div>
+                                <div class="item" data-value="Colombia"><i class="co flag"></i>Colombia</div>
+                                <div class="item" data-value="Costa Rica"><i class="cr flag"></i>Costa Rica</div>
+                                <div class="item" data-value="Croatia"><i class="hr flag"></i>Croatia</div>
+                                <div class="item" data-value="Denmark"><i class="dk flag"></i>Denmark</div>
+                                <div class="item" data-value="Egypt"><i class="eg flag"></i>Egypt</div>
+                                <div class="item" data-value="England"><i class="gb flag"></i>England</div>
+                                <div class="item" data-value="France"><i class="fr flag"></i>France</div>
+                                <div class="item" data-value="Germany"><i class="de flag"></i>Germany</div>
+                                <div class="item" data-value="Iceland"><i class="is flag"></i>Iceland</div>
+                                <div class="item" data-value="Iran"><i class="ir flag"></i>Iran</div>
+                                <div class="item" data-value="Japan"><i class="jp flag"></i>Japan</div>
+                                <div class="item" data-value="Korea Republic"><i class="kr flag"></i>Korea Republic</div>
+                                <div class="item" data-value="Mexico"><i class="mx flag"></i>Mexico</div>
+                                <div class="item" data-value="Morocco"><i class="ma flag"></i>Morocco</div>
+                                <div class="item" data-value="Nigeria"><i class="ng flag"></i>Nigeria</div>
+                                <div class="item" data-value="Panama"><i class="pa flag"></i>Panama</div>
+                                <div class="item" data-value="Peru"><i class="pe flag"></i>Peru</div>
+                                <div class="item" data-value="Poland"><i class="pl flag"></i>Poland</div>
+                                <div class="item" data-value="Portugal"><i class="pt flag"></i>Portugal</div>
+                                <div class="item" data-value="Russia"><i class="ru flag"></i>Russia</div>
+                                <div class="item" data-value="Saudi Arabia"><i class="sa flag"></i>Saudi Arabia</div>
+                                <div class="item" data-value="Senegal"><i class="sn flag"></i>Senegal</div>
+                                <div class="item" data-value="Serbia"><i class="rs flag"></i>Serbia</div>
+                                <div class="item" data-value="Spain"><i class="es flag"></i>Spain</div>
+                                <div class="item" data-value="Sweden"><i class="se flag"></i>Sweden</div>
+                                <div class="item" data-value="Switzerland"><i class="ch flag"></i>Switzerland</div>
+                                <div class="item" data-value="Tunisia"><i class="tn flag"></i>Tunisia</div>
+                                <div class="item" data-value="Uruguay"><i class="uy flag"></i>Uruguay</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="sixteen wide column">
+                        <button class="ui blue button" id="predict">Predict the chance of winning</button>
+                    </div>
+                    <div class="sixteen wide column">
+                        <h3 id="error-message"></h3>
+                        <canvas id="doughnut-chart" width="800" height="150"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<!-- JavaScripts START -->
+<script type="text/javascript" src="libs/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="libs/semantic-ui/semantic/dist/semantic.min.js"></script>
+<script type="text/javascript" src="scripts/main.js"></script>
+<!-- JavaScripts  END-->
+</body>
+</html>

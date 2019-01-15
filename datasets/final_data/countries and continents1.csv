@@ -1,0 +1,260 @@
+name,official_name_en,Continent
+Afghanistan,Afghanistan,AS
+Albania,Albania,EU
+Algeria,Algeria,AF
+American Samoa,American Samoa,OC
+Andorra,Andorra,EU
+Angola,Angola,AF
+Anguilla,Anguilla,NA
+Antarctica,,AN
+Antigua & Barbuda,Antigua and Barbuda,s
+Argentina,Argentina,SA
+Armenia,Armenia,AS
+Aruba,Aruba,NA
+Australia,Australia,OC
+Austria,Austria,EU
+Azerbaijan,Azerbaijan,AS
+Bahamas,Bahamas,NA
+Bahrain,Bahrain,AS
+Bangladesh,Bangladesh,AS
+Barbados,Barbados,NA
+Belarus,Belarus,EU
+Belgium,Belgium,EU
+Belize,Belize,NA
+Benin,Benin,AF
+Bermuda,Bermuda,NA
+Bhutan,Bhutan,AS
+Bolivia,Bolivia (Plurinational State of),SA
+Bosnia,Bosnia and Herzegovina,EU
+Botswana,Botswana,AF
+Bouvet Island,,AN
+Brazil,Brazil,SA
+British Indian Ocean Territory,,AS
+British Virgin Islands,British Virgin Islands,NA
+Brunei,Brunei Darussalam,AS
+Bulgaria,Bulgaria,EU
+Burkina Faso,Burkina Faso,AF
+Burundi,Burundi,AF
+Cambodia,Cambodia,AS
+Cameroon,Cameroon,AF
+Canada,Canada,NA
+Cape Verde,Cabo Verde,AF
+Caribbean Netherlands,"Bonaire, Sint Eustatius and Saba",NA
+Cayman Islands,Cayman Islands,NA
+Central African Republic,Central African Republic,AF
+Chad,Chad,Djamena
+Chile,Chile,SA
+China,China,AS
+Christmas Island,,AS
+Cocos (Keeling) Islands,,AS
+Colombia,Colombia,SA
+Comoros,Comoros,AF
+Congo - Brazzaville,Congo,AF
+Congo - Kinshasa,Democratic Republic of the Congo,AF
+Cook Islands,Cook Islands,OC
+Costa Rica,Costa Rica,NA
+Croatia,Croatia,EU
+Cuba,Cuba,NA
+Curaçao,Curaçao,NA
+Cyprus,Cyprus,EU
+Czech Republic,Czechia,EU
+Côte d’Ivoire,Côte d,EU
+Denmark,Denmark,EU
+Djibouti,Djibouti,AF
+Dominica,Dominica,NA
+Dominican Republic,Dominican Republic,NA
+Ecuador,Ecuador,SA
+Egypt,Egypt,AF
+El Salvador,El Salvador,NA
+Equatorial Guinea,Equatorial Guinea,AF
+Eritrea,Eritrea,AF
+Estonia,Estonia,EU
+Ethiopia,Ethiopia,AF
+Falkland Islands,Falkland Islands (Malvinas),SA
+Faroe Islands,Faeroe Islands,EU
+Fiji,Fiji,OC
+Finland,Finland,EU
+France,France,EU
+French Guiana,French Guiana,SA
+French Polynesia,French Polynesia,OC
+Gabon,Gabon,AF
+Gambia,Gambia,AF
+Georgia,Georgia,AS
+Germany,Germany,EU
+Ghana,Ghana,AF
+Gibraltar,Gibraltar,EU
+Greece,Greece,EU
+Greenland,Greenland,NA
+Grenada,Grenada,s
+Guadeloupe,Guadeloupe,NA
+Guam,Guam,OC
+Guatemala,Guatemala,NA
+Guernsey,Guernsey,EU
+Guinea,Guinea,AF
+Guinea-Bissau,Guinea-Bissau,AF
+Guyana,Guyana,SA
+Haiti,Haiti,NA
+Heard & McDonald Islands,,AN
+Honduras,Honduras,NA
+Hong Kong,"China, Hong Kong Special Administrative Region",AS
+Hungary,Hungary,EU
+Iceland,Iceland,EU
+India,India,AS
+Indonesia,Indonesia,AS
+IR Iran ,Iran (Islamic Republic of),AS
+Iraq,Iraq,AS
+Ireland,Ireland,EU
+Isle of Man,Isle of Man,EU
+Israel,Israel,AS
+Italy,Italy,EU
+Jamaica,Jamaica,NA
+Japan,Japan,AS
+Jersey,Jersey,EU
+Jordan,Jordan,AS
+Kazakhstan,Kazakhstan,AS
+Kenya,Kenya,AF
+Kiribati,Kiribati,OC
+Kuwait,Kuwait,AS
+Kyrgyzstan,Kyrgyzstan,AS
+Laos,Lao People,Vientiane
+Latvia,Latvia,EU
+Lebanon,Lebanon,AS
+Lesotho,Lesotho,AF
+Liberia,Liberia,AF
+Libya,Libya,AF
+Liechtenstein,Liechtenstein,EU
+Lithuania,Lithuania,EU
+Luxembourg,Luxembourg,EU
+Macau,"China, Macao Special Administrative Region",AS
+Macedonia,The former Yugoslav Republic of Macedonia,EU
+Madagascar,Madagascar,AF
+Malawi,Malawi,AF
+Malaysia,Malaysia,AS
+Maldives,Maldives,AS
+Mali,Mali,AF
+Malta,Malta,EU
+Marshall Islands,Marshall Islands,OC
+Martinique,Martinique,NA
+Mauritania,Mauritania,AF
+Mauritius,Mauritius,AF
+Mayotte,Mayotte,AF
+Mexico,Mexico,NA
+Micronesia,Micronesia (Federated States of),OC
+Moldova,Republic of Moldova,EU
+Monaco,Monaco,EU
+Mongolia,Mongolia,AS
+Montenegro,Montenegro,EU
+Montserrat,Montserrat,NA
+Morocco,Morocco,AF
+Mozambique,Mozambique,AF
+Myanmar,Myanmar,AS
+Namibia,Namibia,AF
+Nauru,Nauru,OC
+Nepal,Nepal,AS
+Netherlands,Netherlands,EU
+New Caledonia,New Caledonia,OC
+New Zealand,New Zealand,OC
+Nicaragua,Nicaragua,NA
+Niger,Niger,AF
+Nigeria,Nigeria,AF
+Niue,Niue,OC
+Norfolk Island,Norfolk Island,OC
+North Korea,Democratic People,Pyongyang
+Northern Mariana Islands,Northern Mariana Islands,OC
+Norway,Norway,EU
+Oman,Oman,AS
+Pakistan,Pakistan,AS
+Palau,Palau,OC
+Palestine,State of Palestine,AS
+Panama,Panama,NA
+Papua New Guinea,Papua New Guinea,OC
+Paraguay,Paraguay,SA
+Peru,Peru,SA
+Philippines,Philippines,AS
+Pitcairn Islands,Pitcairn,OC
+Poland,Poland,EU
+Portugal,Portugal,EU
+Puerto Rico,Puerto Rico,NA
+Qatar,Qatar,AS
+Romania,Romania,EU
+Russia,Russian Federation,EU
+Rwanda,Rwanda,AF
+Réunion,Réunion,AF
+Samoa,Samoa,OC
+San Marino,San Marino,EU
+Saudi Arabia,Saudi Arabia,AS
+Senegal,Senegal,AF
+Serbia,Serbia,EU
+Seychelles,Seychelles,AF
+Sierra Leone,Sierra Leone,AF
+Singapore,Singapore,AS
+Sint Maarten,Sint Maarten (Dutch part),NA
+Slovakia,Slovakia,EU
+Slovenia,Slovenia,EU
+Solomon Islands,Solomon Islands,OC
+Somalia,Somalia,AF
+South Africa,South Africa,AF
+South Georgia & South Sandwich Islands,,AN
+South Korea,Republic of Korea,AS
+South Sudan,South Sudan,AF
+Spain,Spain,EU
+Sri Lanka,Sri Lanka,AS
+St. Barthélemy,Saint Barthélemy,NA
+St. Helena,Saint Helena,AF
+St. Kitts & Nevis,Saint Kitts and Nevis,NA
+St. Lucia,Saint Lucia,NA
+St. Martin,Saint Martin (French part),NA
+St. Pierre & Miquelon,Saint Pierre and Miquelon,NA
+St. Vincent & Grenadines,Saint Vincent and the Grenadines,NA
+Sudan,Sudan,AF
+Suriname,Suriname,SA
+Svalbard & Jan Mayen,Svalbard and Jan Mayen Islands,EU
+Swaziland,Swaziland,AF
+Sweden,Sweden,EU
+Switzerland,Switzerland,EU
+Syria,Syrian Arab Republic,AS
+São Tomé & Príncipe,Sao Tome and Principe,AF
+Taiwan,,AS
+Tajikistan,Tajikistan,AS
+Tanzania,United Republic of Tanzania,AF
+Thailand,Thailand,AS
+Timor-Leste,Timor-Leste,OC
+Togo,Togo,AF
+Tokelau,Tokelau,OC
+Tonga,Tonga,alofa
+Trinidad & Tobago,Trinidad and Tobago,NA
+Tunisia,Tunisia,AF
+Turkey,Turkey,AS
+Turkmenistan,Turkmenistan,AS
+Turks & Caicos Islands,Turks and Caicos Islands,NA
+Tuvalu,Tuvalu,OC
+U.S. Outlying Islands,,OC
+U.S. Virgin Islands,United States Virgin Islands,NA
+UK,United Kingdom of Great Britain and Northern Ireland,London
+US,United States of America,Washington
+Uganda,Uganda,AF
+Ukraine,Ukraine,EU
+United Arab Emirates,United Arab Emirates,AS
+Uruguay,Uruguay,SA
+Uzbekistan,Uzbekistan,AS
+Vanuatu,Vanuatu,OC
+Vatican City,Holy See,EU
+Venezuela,Venezuela (Bolivarian Republic of),SA
+Vietnam,Viet Nam,AS
+Wallis & Futuna,Wallis and Futuna Islands,OC
+Western Sahara,Western Sahara,AF
+Yemen,Yemen,AS
+Zambia,Zambia,AF
+Zimbabwe,Zimbabwe,AF
+Åland Islands,Åland Islands,Mariehamn
+England,England,EU
+Korea Republic,Korea Republic,AS
+Côte dIvoire,Côte dIvoire,AF
+Bosnia and Herzegovina,Bosnia and Herzegovina,EU
+Honduras,Honduras,NA
+USA,USA,NA
+Republic of Ireland,Republic of Ireland,EU
+Scotland,Scotland,EU
+Yugoslavia,Yugoslavia,EU
+Trinidad and Tobago,Trinidad and Tobago,SA
+Serbia and Montenegro,Serbia and Montenegro,EU

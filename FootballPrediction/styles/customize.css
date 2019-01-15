@@ -1,0 +1,33 @@
+/* classes start with tp- are my custom classes */
+/* TODO remove unused classes */
+body {
+    background: #edeff0;
+    background: url("../images/bg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: OpenSans,"OpenSans", tahoma;
+
+}
+h1, h2, h3, h4, h5{
+    font-family: "dusha_plusregular", tahoma;
+    color: #fff;
+}
+
+.button {
+    font-family: OpenSans,"OpenSans", tahoma!important;
+}
+h1{
+    font-size: 2.5rem;
+}
+
+.bg-dark{
+    background-color: #07142db0;
+    border-radius: 10px;
+}
+
+/*START padding margin*/
+.my-2{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+/*END padding margin*/
