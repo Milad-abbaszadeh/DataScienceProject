@@ -18,6 +18,7 @@ $(document).ready(function () {
         }
         else{
             $('#flag1').attr("src","images/"+$('#team1').val()+".png");
+            
         }
         if($('#team2').val() == ""){
             $('#flag2').attr("src","images/question.png");
